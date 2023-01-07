@@ -7,8 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
+    "lint:fix": "yarn lint --fix",
     "prepare": "husky install",
-    "format": "prettier --write ."
+    "format": "prettier --write './**/*.{js,jsx,ts,tsx}'"
   },
   "dependencies": {
     "@next/font": "13.1.1",

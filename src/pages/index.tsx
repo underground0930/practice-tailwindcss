@@ -14,9 +14,10 @@ export default function Home() {
         <link rel='icon' href='/favicon.ico' />
       </Head>
       <main>
-        <h1 className='text-xs font-bold underline'>Hello world!</h1>
-        <h1 className='text-cyan-300 md:text-red-600 lg:text-yellow-600'>font</h1>
-        <h2 className='text-3xl font-bold underline'>bbb</h2>
+        <h1 className='text-7xl font-bold text-cyan-300 md:text-red-600 lg:text-yellow-600'>
+          font
+        </h1>
+        <div className='border border-blue-500 py-4 px-5'>afasdf</div>
       </main>
     </>
   )
