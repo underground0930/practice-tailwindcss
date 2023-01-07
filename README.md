@@ -1,1 +1,1 @@
-# practice-tailwindcsa
+# practice-tailwindcss
