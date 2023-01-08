@@ -1,4 +1,8 @@
 /** @type {import('tailwindcss').Config} */
+
+// REFERENCE: defaultConfig
+// URL: https://github.com/tailwindlabs/tailwindcss/blob/master/stubs/defaultConfig.stub.js
+
 module.exports = {
   content: [
     './src/pages/**/*.{js,ts,jsx,tsx}',

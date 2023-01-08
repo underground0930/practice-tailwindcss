@@ -12,11 +12,6 @@ export default function Home() {
         <h1 className='text-7xl font-bold text-cyan-300 md:text-red-600 lg:text-yellow-600'>
           font
         </h1>
-        <div className='flex w-full space-x-10'>
-          <div>a</div>
-          <div>a</div>
-          <div>a</div>
-        </div>
         <div className='border border-blue-500 py-4 px-5 font-normal'>font-normal</div>
         <div className='border border-blue-500 py-4 px-5 font-medium'>font-medium</div>
         <div className='border border-blue-500 py-4 px-5 font-semibold'>font-medium</div>
